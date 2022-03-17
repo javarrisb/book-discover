@@ -26,8 +26,12 @@ Book Discover is a Google Books API search engine that has been refactored with 
   
   In order to use this app, you can click on the deployed application below: 
   
+  https://dry-oasis-73991.herokuapp.com/
+  
   # Screenshot 
   
+  ![Screenshot 2022-03-17 073502](https://user-images.githubusercontent.com/89273544/158800369-1158a7ff-4bb4-4ad8-aa80-f2ee486a7c4f.png)
+
   
   # Contributions
   Made with TLC 😊 by Javarris Barnett
